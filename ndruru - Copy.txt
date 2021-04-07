@@ -1,0 +1,19 @@
+Nim : 1811500068
+Nama : Marinus Ndruru
+
+langkah langkah upload projek di github.
+1.pertama kita buat akun githubnya
+2.kita dowload git nya kemudian kita instal seperti intal sofware pada umumnya
+3.login ke akun github yang telah di buat
+4.klik buat repositori/create repository
+5.Isi nama repositori sama deskripsi nya (deskripsinya tidah wajib atau boleh di kosongkan)
+6.setelah itu klik buat repositori
+7.klik kanan pada folder projek yang akan di upload lalu kli git bash here
+8.maka tampil command git bash kemudian ketik perintah git init selanjutnya ketik perintah git add
+9. selanjutnya bila baru pertama menggunakan sofware git. silahkan config user name dengan mengetik 
+git config-global user.name "masukan user name"
+git config-global user.email "masukan emaail anda"
+10. selanjutnya ketik git commit-m"first commit"
+11 ketik git remote add origini https://github.com/username anda
+12.lalu ketik git push origin master. selesai.
+
